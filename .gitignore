@@ -1,1 +1,6 @@
 config.js
+
+# Файлы и директории от хоста
+.htaccess
+cgi-bin
+
